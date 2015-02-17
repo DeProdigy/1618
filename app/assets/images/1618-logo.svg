@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="201px" height="201px" viewBox="0 0 201 201" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch Beta 3.3 (11472) - http://www.bohemiancoding.com/sketch -->
+    <title>1.618 Logo</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs></defs>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Desktop-2" sketch:type="MSArtboardGroup" transform="translate(-1399.000000, -1899.000000)" stroke="#FFFFFF">
+            <g id="1.618-Logo" sketch:type="MSLayerGroup" transform="translate(1400.000000, 1900.000000)">
+                <path d="M1,1 L200,1 L200,200 L1,200 L1,1 Z" id="P10" sketch:type="MSShapeGroup"></path>
+                <path d="M123,1 L123,123" id="P9" sketch:type="MSShapeGroup"></path>
+                <path d="M1,123 L200,123" id="P8" sketch:type="MSShapeGroup"></path>
+                <path d="M123,76 L200,76" id="P7" sketch:type="MSShapeGroup"></path>
+                <path d="M153,76 L153,123" id="P6" sketch:type="MSShapeGroup"></path>
+                <path d="M123,95 L153,95" id="P5" sketch:type="MSShapeGroup"></path>
+                <path d="M141,76 L141,95" id="P4" sketch:type="MSShapeGroup"></path>
+                <path d="M141,87 L153,87" id="P3" sketch:type="MSShapeGroup"></path>
+                <path d="M146,87 L146,95" id="P2" sketch:type="MSShapeGroup"></path>
+                <path d="M141,90 L146,90" id="P1" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>

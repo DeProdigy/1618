@@ -10,7 +10,15 @@
 // Read Sprockets README (https://github.com/sstephenson/sprockets#sprockets-directives) for details
 // about supported directives.
 //
+//= require_self
+
 //= require jquery
 //= require jquery_ujs
+//= require foundation
 //= require turbolinks
 
+//= require lazy_painter
+//= require main
+
+
+// $(function(){ $(document).foundation(); });

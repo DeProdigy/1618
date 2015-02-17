@@ -1,17 +1,23 @@
 <!DOCTYPE html>
-<html>
-<head>
-  <title>SixteenEighteen</title>
-  <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
-  <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
-  <%= csrf_meta_tags %>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- gmail verification -->
+    <meta name="google-site-verification" content="i0-xPtTKW9T2lZyD6OmASDwWA0y2cmyDhWOugkPnrzM" />
 
-  <!-- gmail verification -->
-  <meta name="google-site-verification" content="i0-xPtTKW9T2lZyD6OmASDwWA0y2cmyDhWOugkPnrzM" />
-</head>
-<body>
+    <title>1.6180339887498948482...</title>
 
-<%= yield %>
+    <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
+    <%= javascript_include_tag "vendor/modernizr" %>
+    <%= javascript_include_tag "application", media: 'all', 'data-turbolinks-track' => true %>
+    <%= csrf_meta_tags %>
 
-</body>
+  </head>
+
+  <body>
+
+    <%= yield %>
+
+  </body>
 </html>
