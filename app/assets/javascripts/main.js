@@ -66,8 +66,9 @@ var pathObj = {
 });
 
  function something() {
-    $('.moto').fadeIn(3200);
-    $('.mail-to').fadeIn(1600);
+    $('.moto').hide().fadeIn(2400);
+    $('.mail-to').hide().fadeIn(1600);
+    $('#1618Logo').hide().fadeIn(1600);
  }
 
 

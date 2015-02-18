@@ -42,7 +42,6 @@ $second-color: $color;
 }
 
 .moto {
-  display: none;
   font-family: 'proxima_novalight';
   font-size: 20px;
   margin-top: 50px;
@@ -50,7 +49,6 @@ $second-color: $color;
 }
 
 .mail-to {
-  display: none;
   position: absolute;
   right: 20px;
   bottom: 12px;
@@ -62,5 +60,3 @@ $second-color: $color;
     color: lighten($color, 15%);
   }
 }
-
-
