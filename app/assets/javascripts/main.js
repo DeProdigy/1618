@@ -49,24 +49,20 @@ var pathObj = {
     }
 };
 
-
-/*
- Setup and Paint your lazyline!
- */
-
- $(document).ready(function(){
-     $('#1618Logo').lazylinepainter(
-     {
-        "svgData": pathObj,
-        "strokeWidth": 1,
-        "strokeColor": "#41D4FB",
-        "drawSequential": false,
-        "onStart": something()
-    }).lazylinepainter('paint');
+$(document).ready(function(){
+  $('#1618Logo').lazylinepainter(
+    {
+      "svgData": pathObj,
+      "strokeWidth": 1,
+      "strokeColor": "#41D4FB",
+      "drawSequential": false,
+      "onStart": something()
+    }
+  ).lazylinepainter('paint');
 });
 
  function something() {
-    $('.moto').hide().fadeIn(2400);
+    $('.motto').hide().fadeIn(2400);
     $('.mail-to').hide().fadeIn(1600);
     $('#1618Logo').hide().fadeIn(1600);
  }

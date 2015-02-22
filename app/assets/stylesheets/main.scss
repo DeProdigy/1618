@@ -41,11 +41,12 @@ $second-color: $color;
   text-rendering: geometricPrecision !important;
 }
 
-.moto {
+.motto {
   font-family: 'proxima_novalight';
   font-size: 20px;
   margin-top: 50px;
   color: $color;
+  text-rendering: geometricPrecision !important;
 }
 
 .mail-to {
@@ -56,6 +57,7 @@ $second-color: $color;
   font-size: 14px;
   text-decoration: none;
   color: $color;
+  text-rendering: geometricPrecision !important;
   &:hover {
     color: lighten($color, 15%);
   }
